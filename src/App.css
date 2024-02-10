@@ -1,0 +1,164 @@
+.topnav {
+  overflow: hidden;
+  padding-left: 15px;
+  border-top-right-radius: 7px;
+  border-top-left-radius: 7px;
+  margin-bottom: 2px;
+  background-color: #fbf7f7;
+  display: flex;
+  color: #070707;
+  max-width: 100%;
+  width: 1128px;
+  margin-top: 0px;
+}
+
+.Delicious1{
+  font-size: 30px;
+  margin-top: 8px;
+}
+.food2{
+  font-size: 30px;
+  color: #f80909;
+  margin-top: 8px;
+  margin-left: 8px;
+  margin-right: 5px;
+}
+.chefp{
+  margin-top: 4px;
+  height: 40px;
+  width: 40px;
+}
+.main{
+  background-color:#fae9e9;
+  padding: 5cqb 5cqb 5cqb 5cqb;
+  margin-top: 0;
+ 
+  
+}
+.middle-left{
+  position: absolute;
+  top: 180px;
+  left: 80px;
+  color: #fcfbfb;
+}
+.smalltext{
+  font-size: xx-large;
+}
+.bigtext{
+  font-size: 5cap;
+}
+.food{
+  color: #f80909;
+}
+.itembtm2{
+  height: 40px;
+  width: 150px;
+  border-radius: 50px;
+}
+.itembtm2:hover{
+  background-color: #3d0808;
+  color: #f5f3f3;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  border-radius: 0px;
+  display: inline;
+}
+#chef{
+  background-color: #fbe8e8;
+  margin-top: 5px;
+  display: flex;
+ 
+
+}
+.chefphoto{
+  background-color: #c38282;
+  margin: 50px 50px 50px 50px;
+  border-radius: 300px;
+  
+  
+}
+.passage{
+  font-size: 13px;
+  background-color: #c38282;
+  display: inline;
+  color: #f5f3f3;
+  margin:  50px 30px 50px 30px ;
+  padding-left: 25px;
+  padding-right: 40px;
+
+  
+}
+
+#itembox{
+  background-image: url(https://th.bing.com/th/id/OIP.oqvpJyAPO1v5R8TeXmBg0AHaEK?w=328&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+  margin-top: 5px;
+  display: flex;
+  background-color: #401b1b;
+
+}
+.items{
+  text-align: center;
+  background-color: #f5f3f3;
+  padding: 30px;
+  margin:  10px 8px 10px 10px;
+  
+}
+.itempic{
+  height: 170px;
+  width: 180px;
+}
+
+.itembtm{
+  height: 40px;
+  width: 150px;
+  border-radius: 50px;
+}
+.itembtm:hover{
+  background-color: #3d0808;
+  color: #f5f3f3;
+}
+#lastdiv{
+  margin-left: 50px;
+  display: flex;
+  gap: 150px;
+  background-color: #fce6e6;
+}
+.last{
+  text-align: center;
+  width: 300px;
+}
+.socialmedia1{
+  height: 23px;
+  width: 33px;
+  margin-right: 0px;
+}
+.socialmedia{
+  gap: 20px;
+  height: 20px;
+  width: 20px;
+  margin-left: 1px;
+}
+html{
+  scroll-behavior: smooth;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
